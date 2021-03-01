@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Tamim Iqbal",
+    "age": 31,
+    "team": "Dhaka",
+    "salary": 10000,
+    "image": "https://i.ibb.co/wgnTVFs/tamim.png"
+  }, {
+    "id": 2,
+    "name": "Soumya Sarkar",
+    "age": 25,
+    "team": "Cumilla",
+    "salary": 5000,
+    "image": "https://i.ibb.co/YjDZ3QX/summo.png"
+  }, {
+    "id": 3,
+    "name": "Sakib Al Hasan",
+    "age": 31,
+    "team": "Khulna",
+    "salary": 10000,
+    "image": "https://i.ibb.co/NnyqkWJ/sakib.png"
+  }, {
+    "id": 4,
+    "name": "Sabbir Rahman",
+    "age": 25,
+    "team": "Kustia",
+    "salary": 4000,
+    "image": "https://i.ibb.co/g7GL5Qk/sabbir.png"
+  }, {
+    "id": 5,
+    "name": "Rubel Hossain",
+    "age": 31,
+    "team": "Rajshahi",
+    "salary": 8000,
+    "image": "https://i.ibb.co/SxZSWyc/rubel.png"
+  }, {
+    "id": 6,
+    "name": "Mustafizur Rahman",
+    "age": 24,
+    "team": "Sylhet",
+    "salary": 8000,
+    "image": "https://i.ibb.co/MRwPyJn/mustafiz.png"
+  }, {
+    "id": 7,
+    "name": "Mushfiqur Rahim",
+    "age": 30,
+    "team": "Bogura",
+    "salary": 10000,
+    "image": "https://i.ibb.co/g7TwPjV/musfiquir.png"
+  }, {
+    "id": 8,
+    "name": "Mosaddek Hossain",
+    "age": 25,
+    "team": "Mymensingh",
+    "salary": 7000,
+    "image": "https://i.ibb.co/BzDX7FG/musadek.png"
+  }, {
+    "id": 9,
+    "name": "Mehidy Hasan",
+    "age": 23,
+    "team": "Khulna",
+    "salary": 8000,
+    "image": "https://i.ibb.co/QjHyqm0/mehedhi.png"
+  }, {
+    "id": 10,
+    "name": "Mashrafe Mortaza",
+    "age": 37,
+    "team": " Narail",
+    "salary": 10000,
+    "image": "https://i.ibb.co/HXBvLCw/mash.png"
+  }, {
+    "id": 11,
+    "name": "Mahmudullah",
+    "age": 35,
+    "team": "Mymensingh",
+    "salary": 10000,
+    "image": "https://i.ibb.co/C09n93C/mahmudullah.png"
+  }, {
+    "id": 12,
+    "name": "Liton Das",
+    "age": 27,
+    "team": "Dinajpur",
+    "salary": 7000,
+    "image": "https://i.ibb.co/HKGF8Hh/liton.png"
+  }, {
+    "id": 13,
+    "name": "Al-Amin",
+    "age": 31,
+    "team": "Jhenaidah",
+    "salary": 5000,
+    "image": "https://i.ibb.co/sggmdZh/al-amin.png"
+  },{
+    "id": 14,
+    "name": "Afif Hossain",
+    "age": 21,
+    "team": "Khulna",
+    "salary": 6000,
+    "image": "https://i.ibb.co/THWZ0qh/afif.png"
+  },{
+    "id": 15,
+    "name": "Virat Kohli",
+    "age": 32,
+    "team": "India",
+    "salary": 10000,
+    "image": "https://i.ibb.co/WngcZGZ/virat.png"
+  }]
