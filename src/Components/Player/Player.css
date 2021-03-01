@@ -2,11 +2,11 @@
     height: 180px;
 }
 .singlePlayer { 
-    width: 290px;
+    width: 270px;
     padding: 5px;
     margin: 10px;
     height: 400px;
-    box-shadow: 2px 2px 16px rgb(173, 173, 173);
+    box-shadow: 2px 2px 16px rgb(165, 80, 80);
     background: rgb(187, 233, 210);
     border-radius: 5px;
     color: black;

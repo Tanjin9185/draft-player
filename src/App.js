@@ -24,12 +24,10 @@ function App() {
     const newTeam = [...team, player];
     setTeam(newTeam);
   };
-  const budget = team.reduce((total, player) => total + player.salary, 0)
+  const budget = team.reduce((total, player) => total + player.salary, 0);
   return (
     <div className="playerContainer ">
-      
       <div className="playerDisplay">
-        
         {players.map((player) => (
           <Player
             player={player}
@@ -39,13 +37,13 @@ function App() {
         ))}
       </div>
       <div className="playerAdd">
-      <h2>Total Player {team.length}</h2>
-      
-      <p>Total Budget {budget}</p>
-      <h3>Players List : </h3>
-        {
-         team.map(team => <Team team={team} key={team.id}></Team>)
-        }
+        <h2>Total Player {team.length}</h2>
+
+        <p>Total Budget {budget}</p>
+        <h3>Players List : </h3>
+        {team.map((team) => (
+          <Team team={team} key={team.id}></Team>
+        ))}
       </div>
     </div>
   );
