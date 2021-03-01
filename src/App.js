@@ -37,10 +37,11 @@ function App() {
         ))}
       </div>
       <div className="playerAdd">
-        <h2>Total Player {team.length}</h2>
+        <h3>Club Name : World XI </h3>
+        <h5>Total Player :{team.length}</h5>
 
-        <p>Total Budget {budget}</p>
-        <h3>Players List : </h3>
+        <h5 className="mb-2">Total Budget {budget}</h5>
+        <h3 className="mb-4">Players List : </h3>
         {team.map((team) => (
           <Team team={team} key={team.id}></Team>
         ))}
