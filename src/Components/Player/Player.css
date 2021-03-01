@@ -1,10 +1,14 @@
 .image{
     height: 180px;
 }
-/* .player{
-    display: flex;
-    border-bottom: 1px solid lightgray;
-    margin-bottom: 5px;
-    margin-right: 5px;
-    padding-bottom: 5px;
-} */
+.singlePlayer { 
+    width: 290px;
+    padding: 5px;
+    margin: 10px;
+    height: 400px;
+    box-shadow: 2px 2px 16px rgb(173, 173, 173);
+    background: rgb(187, 233, 210);
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+}

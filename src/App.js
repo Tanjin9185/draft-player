@@ -2,6 +2,7 @@ import "./App.css";
 import { useEffect, useState } from "react";
 import Player from "./Components/Player/Player";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
 import Team from "./Components/Team/Team";
 
 function App() {
@@ -25,9 +26,10 @@ function App() {
   };
   const budget = team.reduce((total, player) => total + player.salary, 0)
   return (
-    <div className="teamContainer">
-      <div className="player-container">
-        <h1>Loading Player {players.length}</h1>
+    <div className="playerContainer ">
+      
+      <div className="playerDisplay">
+        
         {players.map((player) => (
           <Player
             player={player}
@@ -36,7 +38,7 @@ function App() {
           ></Player>
         ))}
       </div>
-      <div className="team-container">
+      <div className="playerAdd">
       <h2>Total Player {team.length}</h2>
       
       <p>Total Budget {budget}</p>
