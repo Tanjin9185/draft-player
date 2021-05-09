@@ -11,7 +11,7 @@ function App() {
   const [team, setTeam] = useState([]);
 
   useEffect(() => {
-    fetch("https://api.mocki.io/v1/b59372a9")
+    fetch("https://mocki.io/v1/41d35a67-d491-4a0c-8d0b-9b58b6c4a94b")
       .then((res) => res.json())
       .then((data) => {
         setPlayers(data);
